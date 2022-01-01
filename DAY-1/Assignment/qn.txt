@@ -1,0 +1,2 @@
+1)Write an equation that uses multiplication ,division, exponent ,addition and subtraction the result will be 196.75
+2)Write a program that prints the integer from 1 to 100 but for multiples of 3 ,print "cat" instead of number,and for the multiples of 5 print "Black". For numbers which are multiples of both 3 and 5 print "black cat"
